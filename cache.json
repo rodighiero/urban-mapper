@@ -1,0 +1,47 @@
+{
+  "Bras\u00edlia, Brazil": {
+    "dst": 2000
+  },
+  "Palmanova, Italy": {
+    "dst": 1000
+  },
+  "Versailles, France": {
+    "dst": 1600
+  },
+  "Karlsruhe, Germany": {
+    "dst": 1500
+  },
+  "Canberra, Australia": {
+    "dst": 1800
+  },
+  "Washington, D.C., USA": {
+    "dst": 1800
+  },
+  "Ciudad Lineal, Spain": {
+    "dst": 1200
+  },
+  "Manhattan, New York, USA": {
+    "dst": 1300
+  },
+  "Chicago, USA": {
+    "dst": 1700
+  },
+  "Greater London, UK": {
+    "dst": 2000
+  },
+  "Amsterdam, Netherlands": {
+    "dst": 1100
+  },
+  "Paris, France": {
+    "dst": 1500
+  },
+  "Fez, Morocco": {
+    "dst": 1000
+  },
+  "Old Delhi, India": {
+    "dst": 1200
+  },
+  "Athens, Greece": {
+    "dst": 1300
+  }
+}
