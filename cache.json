@@ -48,12 +48,12 @@
     "dst": 1000
   },
   {
-    "nam": "Ciudad Lineal, Spain",
+    "nam": "Atlanta, USA",
     "crd": [
-      40.4395,
-      -3.654
+      33.89183,
+      -84.259204
     ],
-    "dst": 1200
+    "dst": 800
   },
   {
     "nam": "Manhattan, New York, USA",
