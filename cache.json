@@ -1,62 +1,122 @@
 [
   {
     "nam": "Bras\u00edlia, Brazil",
+    "crd": [
+      -15.793889,
+      -47.882778
+    ],
     "dst": 2000
   },
   {
     "nam": "Palmanova, Italy",
+    "crd": [
+      45.9061,
+      13.3095
+    ],
     "dst": 1000
   },
   {
     "nam": "Versailles, France",
+    "crd": [
+      48.8049,
+      2.1204
+    ],
     "dst": 1600
   },
   {
     "nam": "Karlsruhe, Germany",
+    "crd": [
+      49.0069,
+      8.4037
+    ],
     "dst": 1500
   },
   {
     "nam": "Canberra, Australia",
+    "crd": [
+      -35.2811,
+      149.1287
+    ],
     "dst": 1800
   },
   {
-    "nam": "Washington, D.C., USA",
-    "dst": 1800
+    "nam": "Dubai, UAE",
+    "crd": [
+      25.05653,
+      55.207939
+    ],
+    "dst": 1000
   },
   {
     "nam": "Ciudad Lineal, Spain",
+    "crd": [
+      40.4395,
+      -3.654
+    ],
     "dst": 1200
   },
   {
     "nam": "Manhattan, New York, USA",
+    "crd": [
+      40.7549,
+      -73.984
+    ],
     "dst": 1300
   },
   {
     "nam": "Chicago, USA",
+    "crd": [
+      41.8781,
+      -87.63
+    ],
     "dst": 1700
   },
   {
     "nam": "Greater London, UK",
+    "crd": [
+      51.5072,
+      -0.1276
+    ],
     "dst": 2000
   },
   {
     "nam": "Amsterdam, Netherlands",
+    "crd": [
+      52.3738,
+      4.891
+    ],
     "dst": 1100
   },
   {
     "nam": "Paris, France",
+    "crd": [
+      48.8566,
+      2.3522
+    ],
     "dst": 1500
   },
   {
     "nam": "Fez, Morocco",
+    "crd": [
+      34.065,
+      -4.973
+    ],
     "dst": 1000
   },
   {
     "nam": "Old Delhi, India",
+    "crd": [
+      28.6562,
+      77.241
+    ],
     "dst": 1200
   },
   {
     "nam": "Athens, Greece",
+    "crd": [
+      37.9755,
+      23.7348
+    ],
     "dst": 1300
   }
 ]
