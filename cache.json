@@ -1,11 +1,11 @@
 [
   {
-    "nam": "Bras\u00edlia, Brazil",
+    "nam": "Moscow, Russia",
     "crd": [
-      -15.793889,
-      -47.882778
+      55.7558,
+      37.6176
     ],
-    "dst": 2000,
+    "dst": 7000,
     "ntw": "drive"
   },
   {
