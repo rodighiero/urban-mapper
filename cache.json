@@ -5,7 +5,8 @@
       -15.793889,
       -47.882778
     ],
-    "dst": 2000
+    "dst": 2000,
+    "ntw": "drive"
   },
   {
     "nam": "Palmanova, Italy",
@@ -13,7 +14,8 @@
       45.9061,
       13.3095
     ],
-    "dst": 1000
+    "dst": 1000,
+    "ntw": "drive"
   },
   {
     "nam": "Versailles, France",
@@ -21,7 +23,8 @@
       48.8049,
       2.1204
     ],
-    "dst": 1600
+    "dst": 1600,
+    "ntw": "drive"
   },
   {
     "nam": "Karlsruhe, Germany",
@@ -29,7 +32,8 @@
       49.0069,
       8.4037
     ],
-    "dst": 1500
+    "dst": 1500,
+    "ntw": "drive"
   },
   {
     "nam": "Canberra, Australia",
@@ -37,7 +41,8 @@
       -35.2811,
       149.1287
     ],
-    "dst": 1800
+    "dst": 1800,
+    "ntw": "drive"
   },
   {
     "nam": "Dubai, UAE",
@@ -45,7 +50,8 @@
       25.05653,
       55.207939
     ],
-    "dst": 1000
+    "dst": 1000,
+    "ntw": "drive"
   },
   {
     "nam": "Los Angeles, USA",
@@ -53,7 +59,8 @@
       34.029315,
       -118.214444
     ],
-    "dst": 800
+    "dst": 800,
+    "ntw": "drive"
   },
   {
     "nam": "Manhattan, New York, USA",
@@ -61,7 +68,8 @@
       40.7549,
       -73.984
     ],
-    "dst": 1300
+    "dst": 1300,
+    "ntw": "drive"
   },
   {
     "nam": "Chicago, USA",
@@ -69,7 +77,8 @@
       41.8781,
       -87.63
     ],
-    "dst": 1700
+    "dst": 1700,
+    "ntw": "drive"
   },
   {
     "nam": "Greater London, UK",
@@ -77,7 +86,8 @@
       51.5072,
       -0.1276
     ],
-    "dst": 2000
+    "dst": 2000,
+    "ntw": "drive"
   },
   {
     "nam": "Amsterdam, Netherlands",
@@ -85,7 +95,8 @@
       52.3738,
       4.891
     ],
-    "dst": 1100
+    "dst": 1100,
+    "ntw": "drive"
   },
   {
     "nam": "Paris, France",
@@ -93,7 +104,8 @@
       48.8566,
       2.3522
     ],
-    "dst": 1500
+    "dst": 1500,
+    "ntw": "drive"
   },
   {
     "nam": "Fez, Morocco",
@@ -101,7 +113,8 @@
       34.065,
       -4.973
     ],
-    "dst": 600
+    "dst": 600,
+    "ntw": "all"
   },
   {
     "nam": "Old Delhi, India",
@@ -109,7 +122,8 @@
       28.6562,
       77.241
     ],
-    "dst": 1200
+    "dst": 1200,
+    "ntw": "drive"
   },
   {
     "nam": "Athens, Greece",
@@ -117,6 +131,7 @@
       37.9755,
       23.7348
     ],
-    "dst": 1300
+    "dst": 1300,
+    "ntw": "drive"
   }
 ]
