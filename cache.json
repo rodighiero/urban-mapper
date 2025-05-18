@@ -27,12 +27,12 @@
     "ntw": "drive"
   },
   {
-    "nam": "Karlsruhe, Germany",
+    "nam": "Canberra, Australia",
     "crd": [
-      49.01414,
-      8.404492
+      -35.308188,
+      149.124441
     ],
-    "dst": 4000,
+    "dst": 3000,
     "ntw": "all"
   },
   {
