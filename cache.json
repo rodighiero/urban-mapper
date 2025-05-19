@@ -60,10 +60,10 @@
       25.05653,
       55.207939
     ],
-    "dst": 1000,
+    "dst": 900,
     "grp": "Layered Hierarchies",
     "tax": "Segmented Radial Convergence",
-    "ntw": "drive"
+    "ntw": "all"
   },
   {
     "nam": "Los Angeles, USA",
@@ -77,15 +77,15 @@
     "ntw": "drive"
   },
   {
-    "nam": "Manhattan, New York, USA",
+    "nam": "Medell\u00edn, Colombia",
     "crd": [
-      40.7549,
-      -73.984
+      6.2518,
+      -75.5836
     ],
-    "dst": 1300,
+    "dst": 15000,
     "grp": "Linear Flows",
     "tax": "Arc Diagram",
-    "ntw": "drive"
+    "ntw": "all"
   },
   {
     "nam": "Chicago, USA",
