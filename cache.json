@@ -88,15 +88,15 @@
     "ntw": "all"
   },
   {
-    "nam": "Chicago, USA",
+    "nam": "Vatican City",
     "crd": [
-      41.8781,
-      -87.63
+      41.902257,
+      12.457421
     ],
-    "dst": 1700,
+    "dst": 200,
     "grp": "Linear Flows",
     "tax": "Elliptical Implosion",
-    "ntw": "drive"
+    "ntw": "all"
   },
   {
     "nam": "Greater London, UK",
