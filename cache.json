@@ -38,21 +38,10 @@
       -35.308188,
       149.124441
     ],
-    "dst": 3000,
+    "dst": 3200,
     "grp": "Radial Power",
     "tax": "Centralized Ring",
     "ntw": "all"
-  },
-  {
-    "nam": "Canberra, Australia",
-    "crd": [
-      -35.2811,
-      149.1287
-    ],
-    "dst": 1800,
-    "grp": "Layered Hierarchies",
-    "tax": "Circled Globe",
-    "ntw": "drive"
   },
   {
     "nam": "Dubai, UAE",
@@ -60,7 +49,7 @@
       25.05653,
       55.207939
     ],
-    "dst": 900,
+    "dst": 1000,
     "grp": "Layered Hierarchies",
     "tax": "Segmented Radial Convergence",
     "ntw": "all"
@@ -112,13 +101,13 @@
   {
     "nam": "Amsterdam, Netherlands",
     "crd": [
-      52.3738,
-      4.891
+      52.371,
+      4.9
     ],
-    "dst": 1100,
+    "dst": 2000,
     "grp": "Modular Networks",
     "tax": "Ramification",
-    "ntw": "drive"
+    "ntw": "all"
   },
   {
     "nam": "Paris, France",
