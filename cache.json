@@ -99,12 +99,12 @@
     "ntw": "all"
   },
   {
-    "nam": "Greater Cairo, Egypt",
+    "nam": "Randstad, Netherlands",
     "crd": [
-      30.0444,
-      31.2357
+      52.1,
+      4.6
     ],
-    "dst": 50000,
+    "dst": 40000,
     "grp": "Modular Networks",
     "tax": "Area Grouping",
     "ntw": "drive"
@@ -143,12 +143,12 @@
     "ntw": "all"
   },
   {
-    "nam": "Old Delhi, India",
+    "nam": "Greater Cairo, Egypt",
     "crd": [
-      28.6562,
-      77.241
+      30.0444,
+      31.2357
     ],
-    "dst": 1200,
+    "dst": 50000,
     "grp": "Emergent Forms",
     "tax": "Circular Ties",
     "ntw": "drive"
