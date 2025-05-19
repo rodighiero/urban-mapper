@@ -110,17 +110,6 @@
     "ntw": "all"
   },
   {
-    "nam": "Paris, France",
-    "crd": [
-      48.8566,
-      2.3522
-    ],
-    "dst": 1500,
-    "grp": "Modular Networks",
-    "tax": "Scaling Circles",
-    "ntw": "drive"
-  },
-  {
     "nam": "Fez, Morocco",
     "crd": [
       34.065,
@@ -140,17 +129,6 @@
     "dst": 50000,
     "grp": "Emergent Forms",
     "tax": "Circular Ties",
-    "ntw": "drive"
-  },
-  {
-    "nam": "Athens, Greece",
-    "crd": [
-      37.9755,
-      23.7348
-    ],
-    "dst": 1300,
-    "grp": "Emergent Forms",
-    "tax": "Sphere",
     "ntw": "drive"
   }
 ]
