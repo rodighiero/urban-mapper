@@ -99,12 +99,12 @@
     "ntw": "all"
   },
   {
-    "nam": "Greater London, UK",
+    "nam": "Greater Cairo, Egypt",
     "crd": [
-      51.5072,
-      -0.1276
+      30.0444,
+      31.2357
     ],
-    "dst": 2000,
+    "dst": 50000,
     "grp": "Modular Networks",
     "tax": "Area Grouping",
     "ntw": "drive"
