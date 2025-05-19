@@ -6,6 +6,8 @@
       37.6176
     ],
     "dst": 60000,
+    "grp": "Radial Power",
+    "tax": "Centralized Burst",
     "ntw": "drive"
   },
   {
@@ -15,6 +17,8 @@
       13.3095
     ],
     "dst": 1500,
+    "grp": "Radial Power",
+    "tax": "Radial Convergence",
     "ntw": "all"
   },
   {
@@ -24,6 +28,8 @@
       12.485609
     ],
     "dst": 12000,
+    "grp": "Radial Power",
+    "tax": "Radial Implosion",
     "ntw": "drive"
   },
   {
@@ -33,6 +39,8 @@
       149.124441
     ],
     "dst": 3000,
+    "grp": "Radial Power",
+    "tax": "Centralized Ring",
     "ntw": "all"
   },
   {
@@ -42,6 +50,8 @@
       149.1287
     ],
     "dst": 1800,
+    "grp": "Layered Hierarchies",
+    "tax": "Circled Globe",
     "ntw": "drive"
   },
   {
@@ -51,6 +61,8 @@
       55.207939
     ],
     "dst": 1000,
+    "grp": "Layered Hierarchies",
+    "tax": "Segmented Radial Convergence",
     "ntw": "drive"
   },
   {
@@ -60,6 +72,8 @@
       -118.214444
     ],
     "dst": 800,
+    "grp": "Linear Flows",
+    "tax": "Flow Chart",
     "ntw": "drive"
   },
   {
@@ -69,6 +83,8 @@
       -73.984
     ],
     "dst": 1300,
+    "grp": "Linear Flows",
+    "tax": "Arc Diagram",
     "ntw": "drive"
   },
   {
@@ -78,6 +94,8 @@
       -87.63
     ],
     "dst": 1700,
+    "grp": "Linear Flows",
+    "tax": "Elliptical Implosion",
     "ntw": "drive"
   },
   {
@@ -87,6 +105,8 @@
       -0.1276
     ],
     "dst": 2000,
+    "grp": "Modular Networks",
+    "tax": "Area Grouping",
     "ntw": "drive"
   },
   {
@@ -96,6 +116,8 @@
       4.891
     ],
     "dst": 1100,
+    "grp": "Modular Networks",
+    "tax": "Ramification",
     "ntw": "drive"
   },
   {
@@ -105,6 +127,8 @@
       2.3522
     ],
     "dst": 1500,
+    "grp": "Modular Networks",
+    "tax": "Scaling Circles",
     "ntw": "drive"
   },
   {
@@ -114,6 +138,8 @@
       -4.973
     ],
     "dst": 600,
+    "grp": "Emergent Forms",
+    "tax": "Organic Rhizome",
     "ntw": "all"
   },
   {
@@ -123,6 +149,8 @@
       77.241
     ],
     "dst": 1200,
+    "grp": "Emergent Forms",
+    "tax": "Circular Ties",
     "ntw": "drive"
   },
   {
@@ -132,6 +160,8 @@
       23.7348
     ],
     "dst": 1300,
+    "grp": "Emergent Forms",
+    "tax": "Sphere",
     "ntw": "drive"
   }
 ]
