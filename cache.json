@@ -6,19 +6,19 @@
       37.6176
     ],
     "dst": 60000,
-    "grp": "Radial Power",
+    "grp": "Archetypal",
     "tax": "Centralized Burst",
     "ntw": "drive"
   },
   {
-    "nam": "Palmanova, Italy",
+    "nam": "Fez, Morocco",
     "crd": [
-      45.9061,
-      13.3095
+      34.065,
+      -4.973
     ],
-    "dst": 1500,
-    "grp": "Radial Power",
-    "tax": "Radial Convergence",
+    "dst": 800,
+    "grp": "Archetypal",
+    "tax": "Organic Rhizome",
     "ntw": "all"
   },
   {
@@ -28,9 +28,42 @@
       12.485609
     ],
     "dst": 12000,
-    "grp": "Radial Power",
+    "grp": "Archetypal",
     "tax": "Radial Implosion",
     "ntw": "drive"
+  },
+  {
+    "nam": "Vatican City",
+    "crd": [
+      41.902257,
+      12.457421
+    ],
+    "dst": 200,
+    "grp": "Archetypal",
+    "tax": "Elliptical Implosion",
+    "ntw": "all"
+  },
+  {
+    "nam": "Medell\u00edn, Colombia",
+    "crd": [
+      6.2518,
+      -75.5836
+    ],
+    "dst": 15000,
+    "grp": "Geometrical",
+    "tax": "Arc Diagram",
+    "ntw": "all"
+  },
+  {
+    "nam": "Palmanova, Italy",
+    "crd": [
+      45.9061,
+      13.3095
+    ],
+    "dst": 1500,
+    "grp": "Geometrical",
+    "tax": "Radial Convergence",
+    "ntw": "all"
   },
   {
     "nam": "Canberra, Australia",
@@ -39,7 +72,7 @@
       149.124441
     ],
     "dst": 3200,
-    "grp": "Radial Power",
+    "grp": "Geometrical",
     "tax": "Centralized Ring",
     "ntw": "all"
   },
@@ -50,7 +83,7 @@
       55.207939
     ],
     "dst": 1000,
-    "grp": "Layered Hierarchies",
+    "grp": "Geometrical",
     "tax": "Segmented Radial Convergence",
     "ntw": "all"
   },
@@ -61,31 +94,9 @@
       -118.214444
     ],
     "dst": 800,
-    "grp": "Linear Flows",
+    "grp": "Relational",
     "tax": "Flow Chart",
     "ntw": "drive"
-  },
-  {
-    "nam": "Medell\u00edn, Colombia",
-    "crd": [
-      6.2518,
-      -75.5836
-    ],
-    "dst": 15000,
-    "grp": "Linear Flows",
-    "tax": "Arc Diagram",
-    "ntw": "all"
-  },
-  {
-    "nam": "Vatican City",
-    "crd": [
-      41.902257,
-      12.457421
-    ],
-    "dst": 200,
-    "grp": "Linear Flows",
-    "tax": "Elliptical Implosion",
-    "ntw": "all"
   },
   {
     "nam": "Randstad, Netherlands",
@@ -94,8 +105,19 @@
       4.6
     ],
     "dst": 40000,
-    "grp": "Modular Networks",
+    "grp": "Relational",
     "tax": "Area Grouping",
+    "ntw": "drive"
+  },
+  {
+    "nam": "Greater Cairo, Egypt",
+    "crd": [
+      30.0444,
+      31.2357
+    ],
+    "dst": 50000,
+    "grp": "Relational",
+    "tax": "Circular Ties",
     "ntw": "drive"
   },
   {
@@ -105,30 +127,8 @@
       4.9
     ],
     "dst": 2000,
-    "grp": "Modular Networks",
+    "grp": "Relational",
     "tax": "Ramification",
     "ntw": "all"
-  },
-  {
-    "nam": "Fez, Morocco",
-    "crd": [
-      34.065,
-      -4.973
-    ],
-    "dst": 800,
-    "grp": "Emergent Forms",
-    "tax": "Organic Rhizome",
-    "ntw": "all"
-  },
-  {
-    "nam": "Greater Cairo, Egypt",
-    "crd": [
-      30.0444,
-      31.2357
-    ],
-    "dst": 50000,
-    "grp": "Emergent Forms",
-    "tax": "Circular Ties",
-    "ntw": "drive"
   }
 ]
